@@ -36,7 +36,7 @@
 
 <ul style="color:#e5e7eb;">
   <li>Rock beats Scissors</li>
-  <li>Scissors beats Paper</li>
+  <li>Scissors beats Papers</li>
   <li>Paper beats Rock</li>
 </ul>
 
